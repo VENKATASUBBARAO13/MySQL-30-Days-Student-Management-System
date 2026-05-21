@@ -23,7 +23,6 @@ Instead of learning only syntax, I created a structured database system step by 
 ```sql
 amrita_college
 ```
-
 ---
 
 ## 🗂️ Tables Used
